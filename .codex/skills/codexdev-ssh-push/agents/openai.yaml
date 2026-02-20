@@ -1,0 +1,4 @@
+interface:
+  display_name: "CodexDev SSH Push"
+  short_description: "Commit and push CodexDev updates over Git SSH"
+  default_prompt: "Use $codexdev-ssh-push to sync and push this CodexDev repo."
